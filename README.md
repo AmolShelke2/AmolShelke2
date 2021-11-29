@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Css
 - 💞️ I’m looking to collaborate on Websites
-- 📫 How to reach me instagram username: Amol_shelke09
+- 📫 How to reach me Twitter username: Amol_shelke09
 
 
 
