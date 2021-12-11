@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmolShelke2
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Css
+- 🌱 I’m currently learning FrontEnd
 - 💞️ I’m looking to collaborate on Websites
 - 📫 How to reach me Twitter username: Amol_shelke09
 
