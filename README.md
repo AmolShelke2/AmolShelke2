@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Websites
 - 📫 How to reach me Twitter username: Amol_shelke09
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmolShelke2&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmolShelke2&show_icons=true&theme=radical)
 
