@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke</a></h1>
 <h3 align="center">A Passionate Web Developer</h3>
 
+
+
+https://tenor.com/view/cat-computer-typing-fast-gif-5368357
+
+
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Web Development**
