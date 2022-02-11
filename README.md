@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/Amol-shelke/" target="_blank"> Amol Shelke</a></h1>
-<h3 align="center">A Passionate Web And App Developer</h3>
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke/" target="_blank"> Amol Shelke</a></h1>
+<h3 align="center">A Passionate Web Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
