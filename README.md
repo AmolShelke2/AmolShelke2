@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @AmolShelke2
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning FrontEnd
-- 💞️ I’m looking to collaborate on Websites
-- 📫 How to reach me Twitter username: Amol_shelke09
+<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/Amol-shelke/" target="_blank"> Amol Shelke</a></h1>
+<h3 align="center">A Passionate Web And App Developer</h3>
 
+- 🌱 I’m currently learning **JavaScript**
+
+- 💬 Ask me about **Web Development**
+
+- 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-amolshelke2.vercel.app/" target="_blank">Portfolio</a>**
+
+- 😄 Pronouns: He/His
 
 ![Amol's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmolShelke2&show_icons=true&theme=radical)
 
