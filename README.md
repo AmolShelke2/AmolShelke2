@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke</a></h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">A Passionate Web Developer & Open Source Contributer</h3>
 
 
 
