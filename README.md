@@ -1,3 +1,5 @@
+![home-banner__illust](https://user-images.githubusercontent.com/95171638/153793176-ec5d5eb4-a15e-4bcf-b4c6-dfe91c4d4a87.svg)
+
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke</a></h1>
 <h3 align="center">A Passionate Web Developer & Open Source Contributer</h3>
 
