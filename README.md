@@ -36,3 +36,5 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolShelke2&theme=dark" alt="Amol Shelke" /></p>
   </div>
+
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=AmolShelke2" alt="Amol" /> </h3>
