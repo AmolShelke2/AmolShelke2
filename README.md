@@ -9,7 +9,7 @@
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-v2-brown-eta.vercel.app/" target="_blank">Portfolio</a>**
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 
 
 <h3 align="left">Connect with me:</h3>
