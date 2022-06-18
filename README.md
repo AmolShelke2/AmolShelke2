@@ -21,12 +21,15 @@
   <a href="https://instagram.com/Amol__shelke16"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
-<h3 align="left">Web Technologies :</h3>
+<h3 align="left">Skills :</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-<img alt="HTML5" src="https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="git" src="https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Github" src="https://img.shields.io/badge/github-%23E34F26.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="ajax" src="https://img.shields.io/badge/ajax-%23E34F26.svg?style=for-the-badge&logo=ajax&logoColor=white"/>
+  <img alt="npm" src="https://img.shields.io/badge/npm-%23E34F26.svg?style=for-the-badge&logo=npm&logoColor=white"/>
 </div>
 
 <table>
