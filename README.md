@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://portfolio-v2-brown-eta.vercel.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke.vercel.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/Him
 
