@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke</a></h1>
 <h3 align="center">A Passionate Web Developer & Open Source Contributor</h3>
 
-
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=AmolShelke2" alt="Amol" /> </h3>
+<hr>
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -36,5 +37,3 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolShelke2&theme=dark" alt="Amol Shelke" /></p>
   </div>
-
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=AmolShelke2" alt="Amol" /> </h3>
