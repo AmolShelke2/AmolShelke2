@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: He/Him
 
-- I'm a lazy developer 😅
+- I'm a lazy developer until I found solution on StackOverflow.
 
 
 <hr></hr>
