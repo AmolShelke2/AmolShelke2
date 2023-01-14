@@ -4,7 +4,7 @@
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=AmolShelke2" alt="Amol" /> </h3>
 <hr>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Web Development, Front End**
 
