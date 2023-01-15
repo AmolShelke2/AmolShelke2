@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke</a></h1>
-<h3 align="center">A Passionate Web Developer & Open Source Contributor</h3>
+<h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke </a></h1>
+<h3 align="left">A Passionate Web Developer & Open Source Contributor</h3>
+<p>I'm Amol Shelke, From India I'm a passionate front-end developer, and part time tech content writer at <a href="https://codedamn.com" target="_blank">codedamn</a>. As a content writer I need to write various types of articles on different technologies, so I research about them and write them.
+I have A good knowledge of front-end technologes and currently I'm learning react.
+</p>
+
 
 <h3 align="left"> <img src="https://komarev.com/ghpvc/?username=AmolShelke2" alt="Amol" /> </h3>
 <hr>
