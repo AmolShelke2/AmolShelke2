@@ -28,7 +28,7 @@ I have A good knowledge of front-end technologes and currently I'm learning reac
 </div>
 
 <h3 align="left">Skills :</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,ts,tailwind,js,react,git,github,vscode" />
 
 <hr>
 <table>
