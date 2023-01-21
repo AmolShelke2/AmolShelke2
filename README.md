@@ -10,7 +10,7 @@ I have A good knowledge of front-end technologes and currently I'm learning reac
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Web Development, Front End**
+- 💬 Ask me about **Web-Development, Front-End**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke.vercel.app/" target="_blank">Portfolio</a>**
 
