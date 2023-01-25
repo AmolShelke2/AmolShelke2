@@ -36,5 +36,5 @@ I have A good knowledge of front-end technologes and currently I'm learning reac
     <td><img src="https://github-readme-stats.vercel.app/api?username=AmolShelke2&show_icons=true&theme=dark&locale=en" alt="Amol Shelke" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmolShelke2&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amol-shelke" /></td>
   </tr>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolShelke2&theme=dark" alt="Amol Shelke" /></p>
 </table>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolShelke2&theme=dark" alt="Amol Shelke" /></p>
