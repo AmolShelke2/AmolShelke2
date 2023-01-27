@@ -45,4 +45,4 @@ I have A good knowledge of front-end technologes and currently I'm learning reac
 <li>Participated in Girscript summer of code and ended up becoming a top contributor in the program.</li>
 <li>Got an internship to work with Codedamn as a tech content writer in 2022 octomber.</li>
 <li>Completed 2 #100daysofcode challenges and shared my journey on linkedin</li>
-
+<li>Maintained coding consistently more than 365days on github</li>
