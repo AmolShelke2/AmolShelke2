@@ -16,7 +16,7 @@ I have A good knowledge of front-end technologes and currently I'm learning reac
 
 - 😄 Pronouns: He/Him
 
-- I'm a lazy developer until I found solution on StackOverflow.
+- 🙂 I'm a lazy developer until I found solution on StackOverflow.
 
 
 <hr></hr>
