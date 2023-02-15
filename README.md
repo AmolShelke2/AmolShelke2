@@ -27,8 +27,8 @@ I have A good knowledge of front-end technologes and currently I'm learning reac
   <a href="https://instagram.com/_amol_.pvt"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
 
-<h3 align="left">Skills :</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,ts,tailwind,js,react,git,github,vscode" />
+<h3 align="left">Tools and Technologies :</h3>
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,ts,tailwind,js,react,nextjs,git,github,vscode" />
 
 <hr>
 <table>
