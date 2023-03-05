@@ -1,7 +1,6 @@
 <h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke </a></h1>
 <h3 align="left">A Passionate Front-end Developer</h3>
-<p>I'm Amol Shelke, From India I'm a passionate front-end developer, and part time tech content writer at <a href="https://codedamn.com" target="_blank">codedamn</a>. As a content writer I need to write various types of articles on different technologies, so I research about them and write them.
-I have A good knowledge of front-end technologies and I'm currently learning React.
+<p>I'm Amol Shelke, From India I'm a passionate front-end developer, who love to drink tea when got stuck while finding answers. I love to work on frontend sides of the web. I work on technologies like react and tailwind and create beautiful websites with them.
 </p> 
 
 
