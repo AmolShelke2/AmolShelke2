@@ -3,8 +3,11 @@
 <p>I'm Amol Shelke, From India I'm a passionate frontend web developer, who love to drink tea when got stuck while finding answers. I love to work on frontend sides of the web. I work on technologies like react and tailwind and create beautiful websites with them. I have created multiple frontend websites and deployed them on vercel. All the code is written from scratch. From designing to developing Everything will be done with the motivation to build an amazing frontend webapp or website. Let's connect and make something great! I have shared my self tought frontend developer journey on LinkedIn. And connected over 3000+ peoples.
 </p> 
 
+<p>
+<a href="#"> <img src="https://komarev.com/ghpvc/?username=AmolShelke2" alt="Amol" /></a>
+<a href="https://github.com/AmolShelke2?tab=followers"><img src="https://img.shields.io/github/followers/AmolShelke2?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=AmolShelke2" alt="Amol" /> </h3>
 <hr>
 
 - 🌱 I’m currently learning **React JS**
