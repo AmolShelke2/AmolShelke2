@@ -27,7 +27,7 @@
 </div>
 
 <h3 align="left">Tools and Technologies :</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,ts,tailwind,js,react,nextjs,git,github,vscode,figma" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nextjs,mui,git,github,vscode,figma" />
 
 <hr>
 <table>
