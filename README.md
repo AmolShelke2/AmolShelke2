@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke </a></h1>
 <h3 align="left">A Passionate Front-end Developer</h3>
-<p>I'm Amol Shelke, From India I'm a passionate front-end developer, who love to drink tea when got stuck while finding answers. I love to work on frontend sides of the web. I work on technologies like react and tailwind and create beautiful websites with them.
+<p>I'm Amol Shelke, From India I'm a passionate frontend web developer, who love to drink tea when got stuck while finding answers. I love to work on frontend sides of the web. I work on technologies like react and tailwind and create beautiful websites with them. I have created multiple frontend websites and deployed them on vercel. All the code is written from scratch. From designing to developing Everything will be done with the motivation to build an amazing frontend webapp or website. Let's connect and make something great!
 </p> 
 
 
@@ -21,6 +21,9 @@
 <hr></hr>
 <h3 align="left">Connect with me:</h3>
 <div align="left">
+  <a href="https://twitter.com/Amol_shelke09" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
   <a href="https://www.linkedin.com/in/amol-shelke-627813220/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:shelkeamol897@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://instagram.com/_amol_.pvt"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
