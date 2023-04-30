@@ -33,7 +33,7 @@
 </div>
 
 <h3 align="left">Tools and Technologies :</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,react,typescript,nextjs,tailwind,git,github,vscode" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nextjs,tailwind,git,github,vscode" />
 
 <hr>
 <table>
