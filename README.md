@@ -45,9 +45,10 @@
     <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolShelke2&theme=dark" alt="Amol Shelke" /></p>
     
 <hr>
-<h2>Achivements</h2>
+<h2>Achievement</h2>
 <li>Started Learning web development in Octomber 2021</li>
 <li>Participated in Girscript summer of code and ended up becoming a top contributor in the program.</li>
 <li>Got an internship to work with Codedamn as a tech content writer in 2022 octomber.</li>
 <li>Completed 2 #100daysofcode challenges and shared my journey on linkedin</li>
 <li>Maintained coding consistently more than 365days on github</li>
+<li>Got my first software developer job as an Frontend developer</li>
