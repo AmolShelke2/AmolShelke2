@@ -10,7 +10,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Fullstack webdevelopment JavaScript**
 
 - 💬 Ask me about **Web-Development, Front-End**
 
