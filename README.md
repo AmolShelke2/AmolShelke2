@@ -10,15 +10,13 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Fullstack webdevelopment JavaScript**
+- 🌱 I’m currently learning **Fullstack Webdevelopment**
 
 - 💬 Ask me about **Web-Development, Front-End**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke.vercel.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/Him
-
-- 🙂 I'm a lazy developer until I found solution on StackOverflow.
 
 
 <hr></hr>
