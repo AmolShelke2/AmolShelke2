@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke </a></h1>
 <h3 align="left">A Passionate Front-end Developer</h3>
-<p>I'm Amol Shelke, From India I'm a passionate frontend web developer, who love to drink tea when got stuck while finding answers. I love to work on frontend sides of the web. I work on technologies like react and tailwind and create beautiful websites with them. I have created multiple frontend websites and deployed them on vercel. All the code is written from scratch. From designing to developing Everything will be done with the motivation to build an amazing frontend webapp or website. Let's connect and make something great! I have shared my self tought frontend developer journey on LinkedIn. And connected over 3000+ peoples.
+<p>I'm Amol Shelke, From India I'm a passionate frontend web developer, who loves to drink tea when got stuck while finding answers. I love to work on the frontend sides of the web. I work on technologies like React and Tailwind and create beautiful websites with them. I have created multiple front-end websites and deployed them on Vercel. All the code is written from scratch. Everything will be done from designing to developing with the motivation to build an amazing frontend web app or website. Let's connect and make something great! I have shared my self taught frontend developer journey on LinkedIn. And connected over 3000+ people.
 </p> 
 
 <p>
