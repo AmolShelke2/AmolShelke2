@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke </a></h1>
 <h3 align="left">A Passionate Front-end Developer</h3>
-<p>I'm Amol Shelke, From India I'm a passionate frontend web developer, who loves to drink tea when got stuck while finding answers. I love to work on the frontend sides of the web. I work on technologies like React and Tailwind and create beautiful websites with them. I have created multiple front-end websites and deployed them on Vercel. All the code is written from scratch. Everything will be done from designing to developing with the motivation to build an amazing frontend web app or website. Let's connect and make something great! I have shared my self taught frontend developer journey on LinkedIn. And connected over 3000+ people.
+<p>I'm Amol Shelke, From India I'm a passionate frontend web developer, who loves to drink tea when got stuck while finding answers. I love to work on the front-end side of the web. I work on technologies like React and Tailwind and create beautiful websites with them. I have created multiple front-end websites and deployed them on Vercel. All the code is written from scratch. Everything will be done from designing to developing with the motivation to build an amazing front-end web app or website. Let's connect and make something great! I have shared my self-taught front-end developer journey on LinkedIn. And connected over 3000+ people.
 </p>
 
 <p>
@@ -10,7 +10,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Fullstack Webdevelopment**
+- 🌱 I’m currently learning **Fullstack Web development**
 
 - 💬 Ask me about **Web-Development, Front-End**
 
@@ -44,9 +44,9 @@
     
 <hr>
 <h2>Achievement</h2>
-<li>Started Learning web development in Octomber 2021</li>
-<li>Participated in Girscript summer of code and ended up becoming a top contributor in the program.</li>
-<li>Got an internship to work with Codedamn as a tech content writer in 2022 octomber.</li>
+<li>Started Learning web development in October 2021</li>
+<li>Participated in Girscript summer of code and became a top contributor in the program.</li>
+<li>Got an internship with Codedamn as a tech content writer in October 2022.</li>
 <li>Completed 2 #100daysofcode challenges and shared my journey on linkedin</li>
 <li>Maintained coding consistently more than 365days on github</li>
-<li>Got my first software developer job as an Frontend developer intern</li>
+<li>Got my first software developer job as a Frontend developer intern</li>
