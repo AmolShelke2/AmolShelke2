@@ -17,7 +17,7 @@
 - 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke.vercel.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/Him
-
+ 
 
 <hr></hr>
 <h3 align="left">Connect with me:</h3>
