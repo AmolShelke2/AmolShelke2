@@ -9,7 +9,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Fullstack Web development**
+- 🌱 I’m currently learning **Fullstack Web development** 
 
 - 💬 Ask me about **Web-Development, Front-End**
 
