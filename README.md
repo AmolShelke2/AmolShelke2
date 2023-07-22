@@ -33,15 +33,7 @@
   <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nextjs,tailwind,git,github,vscode" />
 
 <hr>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=AmolShelke2&show_icons=true&theme=dark&locale=en" alt="Amol Shelke" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmolShelke2&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amol-shelke" /></td>
-  </tr>
-</table>
-    <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmolShelke2&theme=dark" alt="Amol Shelke" /></p>
-    
-<hr>
+
 <h2>Achievement</h2>
 <li>Started Learning web development in October 2021</li>
 <li>Participated in Girscript summer of code and became a top contributor in the program.</li>
