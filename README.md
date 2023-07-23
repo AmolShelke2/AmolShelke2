@@ -40,4 +40,4 @@
 <li>Got an internship with Codedamn as a tech content writer in October 2022.</li>
 <li>Completed 2 #100daysofcode challenges and shared my journey on linkedin</li>
 <li>Maintained coding consistently more than 365days on github</li>
-<li>Got my first software developer job as a Frontend developer intern</li> 
+<li>Got my first software developer job as a Frontend developer intern</li>
