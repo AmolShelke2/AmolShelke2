@@ -33,11 +33,3 @@
   <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nextjs,tailwind,git,github,vscode,graphql" />
 
 <hr>
-
-<h2>Achievement</h2>
-<li>Started Learning web development in October 2021</li>
-<li>Participated in Girscript summer of code and became a top contributor in the program.</li>
-<li>Got an internship with Codedamn as a tech content writer in October 2022.</li>
-<li>Completed 2 #100daysofcode challenges and shared my journey on linkedin</li>
-<li>Maintained coding consistently more than 365days on github</li>
-<li>Got my first software developer job as a Frontend developer intern</li>
