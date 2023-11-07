@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web-Development, Front-End**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke.vercel.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke-phi.vercel.app/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/Him
  
