@@ -9,8 +9,6 @@
 
 <hr>
 
-- 🌱 I’m currently learning **Fullstack Web development** 
-
 - 💬 Ask me about **Web-Development, Front-End**
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke-phi.vercel.app/" target="_blank">Portfolio</a>**
