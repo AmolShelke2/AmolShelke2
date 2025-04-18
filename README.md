@@ -2,9 +2,6 @@
 <h3 align="left">A Passionate Front-end Developer</h3>
 <p>I'm Amol Shelke, From India I'm a passionate frontend web developer, who loves to drink tea when got stuck while finding answers. I love to work on the front-end side of the web. I work on technologies like React and Tailwind and create beautiful websites with them. I have created multiple front-end websites and deployed them on Vercel. All the code is written from scratch. Everything will be done from designing to developing with the motivation to build an amazing front-end web app or website. Let's connect and make something great! I have shared my self-taught front-end developer journey on LinkedIn. And connected over 3000+ people.
 </p>
-<p>
-<a href="https://github.com/AmolShelke2?tab=followers"><img src="https://img.shields.io/github/followers/AmolShelke2?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
 
 <hr>
 
