@@ -1,7 +1,17 @@
 <h1 align="left">Hi, I'm <a href="https://www.linkedin.com/in/amol-shelke-627813220/" target="_blank"> Amol Shelke </a></h1>
 <h3 align="left">A Passionate Front-end Developer</h3>
-<p>I'm Amol Shelke, From India I'm a passionate frontend web developer, who loves to drink tea when got stuck while finding answers. I love to work on the front-end side of the web. I work on technologies like React and Tailwind and create beautiful websites with them. I have created multiple front-end websites and deployed them on Vercel. All the code is written from scratch. Everything will be done from designing to developing with the motivation to build an amazing front-end web app or website. Let's connect and make something great! I have shared my self-taught front-end developer journey on LinkedIn. And connected over 3000+ people.
-</p>
+<h4>About Me</h4>
+
+Hi, I’m **Amol Shelke** from India — a passionate **Frontend Web Developer** who believes that a warm cup of tea can solve even the trickiest bugs. I love bringing ideas to life on the web, crafting clean, responsive, and user-focused interfaces.
+
+I specialize in **React**, **Tailwind CSS**, and modern frontend workflows. I’ve built and deployed multiple projects from scratch on **Vercel**, handling everything from UI design to development with the goal of creating smooth and visually appealing web experiences.
+
+Over the past few years, I’ve grown through hands-on learning and real-world experience. I completed **two frontend development internships**, which strengthened my fundamentals and exposed me to production-level workflows. Currently, I’m working as a **Full-Time Frontend Engineer at Home.LLC**, where I collaborate on building scalable, high-quality frontend features.
+
+I also shared my self-taught developer journey on **LinkedIn**, where I’ve connected with **5000+ people**, helping and learning from the community.
+
+Let’s connect and build something awesome together!
+
 
 <hr>
 
@@ -24,6 +34,6 @@
 </div>
 
 <h3 align="left">Tools and Technologies :</h3>
-  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nextjs,tailwind,git,github,vscode,graphql" />
+  <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nextjs,tailwind,git,github,vscode,graphql,redux,docker,mui" />
 
 <hr>
