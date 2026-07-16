@@ -19,7 +19,6 @@ Let’s connect and build something awesome together!
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke-phi.vercel.app/" target="_blank">Portfolio</a>**
 
-- 😄 Pronouns: He/Him
  
 
 <hr></hr>
