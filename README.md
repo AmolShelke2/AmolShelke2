@@ -19,19 +19,9 @@ Let’s connect and build something awesome together!
 
 - 👨‍💻 Check out my personal portfolio : **<a href="https://amolshelke-phi.vercel.app/" target="_blank">Portfolio</a>**
 
- 
 
-<hr></hr>
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <a href="https://twitter.com/Amol_shelke09" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-  <a href="https://www.linkedin.com/in/amol-shelke-627813220/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shelkeamol897@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</div>
+<hr>
 
 <h3 align="left">Tools and Technologies :</h3>
   <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,typescript,react,nextjs,tailwind,git,github,vscode,graphql,redux,docker,mui,nodejs,express,mongodb" />
 
-<hr>
